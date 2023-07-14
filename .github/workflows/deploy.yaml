@@ -33,7 +33,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: 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
           publish_dir: ./public
           publish_branch: deploy  # deploying branch
-          cname: amethyst.bencuan.me
+          cname: EnzoLwb.github.io

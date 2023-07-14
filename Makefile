@@ -22,3 +22,6 @@ serve: ## Serve Quartz locally
 
 docker: ## Serve locally using Docker
 	docker run -it --volume=$(shell pwd):/quartz -p 1313:1313 ghcr.io/jackyzha0/quartz:hugo
+
+# windows local
+# hugo-obsidian -input=content -output=assets/indices -index -root=. && hugo server --enableGitInfo --minify

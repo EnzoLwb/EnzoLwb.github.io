@@ -1,5 +1,5 @@
 ---
-title: 💜 Welcome to Amethyst!
+title: 💜 Welcome to Amethyst! Happy Birthday!
 enableToc: false
 ---
 
